@@ -1,0 +1,15 @@
+{
+  "name": "poplist-csv-to-json",
+  "version": "1.0.0",
+  "description": "transform poplist csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
